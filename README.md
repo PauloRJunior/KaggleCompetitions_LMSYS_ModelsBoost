@@ -19,8 +19,8 @@ Para a resolução deste problema, são extraídas características dos textos d
 - Diferença entre as respostas, entre outras.
 
 ### Estrutura do Projeto
-1 - Pré-processamento: Limpeza e preparação dos dados textuais.
-2 - Exploração de Dados: Análise exploratória para definir as features mais relevantes.
+1 - Pré-processamento: Limpeza e preparação dos dados textuais.  
+2 - Exploração de Dados: Análise exploratória para definir as features mais relevantes.  
 3 - Modelagem: Aplicação e ajuste de modelos de classificação, como Gradient Boosting, XGBoost e CatBoost.
 
 ## Como Executar
